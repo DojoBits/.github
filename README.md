@@ -1,1 +1,1 @@
-Wellcome to DojoBits!
+Welcome to DojoBits!
