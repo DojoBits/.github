@@ -1,10 +1,13 @@
-#   Welcome to DojoBits!
-##  How can we help you today?
+<div align="center">
+  <h1 align="center">Welcome to DojoBits!</h1>
+  <picture>
+    <img src="assets/logo-name.png" alt="a banner with the DojoBits logo and company name" width="600">
+  </picture>
+ <h2 align="center">How can we help you today?</h1>
+ <h3 align="center">Kubernetes | Docker | DevOps | DevSecOps | Training | Consulting | Managed Services | AI</h1>
+</div>
 
-**`Kubernetes | Docker | DevOps | DevSecOps | Training | Consulting | Managed Services | AI`**
-
-# Our Vision
-Transforming lives and businesses through innovation and cutting-edge solutions 🚀
+<br />
 
 
 <!-- About us -->
