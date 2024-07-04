@@ -5,10 +5,20 @@
   </picture>
  <h2 align="center">How can we help you today?</h1>
  <h3 align="center">Kubernetes | Docker | DevOps | DevSecOps | Training | Consulting | Managed Services | AI</h1>
+
+<!-- Github links -->
+<p align="center">
+   <a href="https://github.com/DojoBits?tab=followers">
+      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/DojoBits?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+   <a href="https://github.com/DojoBits?tab=repositories&sort=stargazers">
+      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/DojoBits?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+</p>
 </div>
 
 <br />
 
+# Our Vision
+Transforming lives and businesses through innovation and cutting-edge solutions 🚀
 
 <!-- About us -->
 <details>
@@ -57,14 +67,6 @@ Badges taken from https://github.com/Ileriayo/markdown-badges -->
 </details>
 
 ---
-
-<!-- Github links -->
-<p align="left">
-   <a href="https://github.com/DojoBits?tab=followers">
-      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/DojoBits?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-   <a href="https://github.com/DojoBits?tab=repositories&sort=stargazers">
-      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/DojoBits?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-</p>
 
 <!-- Social media 
 <p align="left">
